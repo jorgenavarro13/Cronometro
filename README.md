@@ -48,8 +48,3 @@ Link a la github-page:
 
 Si tienes alguna sugerencia para mejorar la precisión o el diseño, ¡siempre es bienvenida!
 
----
-
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT.
